@@ -19,3 +19,6 @@ $ python3 -m alowa_lite.lock writer
 使用している文法の関係でPython 3でのみ動作する。
 動作確認はPython 3.4.6, 3.6.2 (on macOS Sierra)で行っている。
 
+# ライセンス
+
+MIT
